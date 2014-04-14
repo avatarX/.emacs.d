@@ -1,0 +1,43 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/michael/Projects/om-tut/src/" . "om_tut/")
+ ("/home/michael/Projects/om-tut/" . "src/")
+ ("/home/michael/Projects/" . "om-tut/")
+ ("/home/michael/" . "Projects/")
+ ("/home/michael/.emacs.d/" . "auto-save-list/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/michael/Projects/om-tut/"
+ "/home/michael/Projects/om-tut/src/om_tut/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "project.clj"
+ "core.cljs"
+ "index.html"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/michael/" (21318 8512 502853 992000) ".xsession-errors.old" "bin/" ".config/" "examples.desktop" ".dropbox-dist/" ".mozilla/" ".cache/" ".rvm/" ".ido.last" ".zlogin" "jon_wireless.txt" ".bash_logout" ".java/" ".gconf/" ".profile" ".Xauthority.LGI0CX" ".emacs.d/" ".android/" "Dropbox/" ".bash_profile" "Videos/" "Projects/" ".bashrc" ".gem/" ".lein/" "./" ".bash_history" ".dropbox/" ".ICEauthority" ".zshrc" ".cinnamon/" "Templates/" ".local/" "Public/" "Music/" ".viminfo" ".Xauthority" ".gstreamer-0.10/" "Downloads/" "workspace/" "Pictures/" ".dbus/" "Documents/" "../" ".xsession-errors" "Desktop/" ".gnome2/" ".pki/" ".dmrc" ".compiz/" ".m2/" "Apps/")
+
+ ("/home/michael/Projects/om-tut/src/om_tut/" (21317 28989 880146 358000) "./" "core.cljs" "../")
+
+ ("/home/michael/.emacs.d/" (21317 29125 500145 357000) ".smex-items" "elpa/" "backups/" "places" "./" "auto-save-list/" "../" "init.el")
+
+ ("/home/michael/Projects/om-tut/src/" (21285 26270 83951 184000) "./" "om_tut/" "../")
+
+ ("/home/michael/Projects/om-tut/" (21285 37710 727987 252000) ".gitignore" "target/" "project.clj" "src/" "out/" "./" "om_tut.js" "../" "index.html")
+
+ ("/home/michael/Projects/" (21285 26270 79951 184000) "om-tut/" "./" "../")
+
+ ("/home/michael/.emacs.d/auto-save-list/" (21317 27822 905534 909000) "./" "../" ".saves-3318-Y510P~")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

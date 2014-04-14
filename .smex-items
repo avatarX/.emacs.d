@@ -1,0 +1,19 @@
+
+;; ----- smex-history -----
+(
+ run-scheme
+ package-install
+ cd
+ 5x5
+ arp
+ dbx
+ dig
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 2)
+ (evil-move-WORD . 1)
+ (evil-move-word . 1)
+ (run-scheme . 3)
+)
